@@ -1,0 +1,59 @@
+.container {
+    padding: 30px;
+    
+}
+
+.contacts {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 30px;
+    margin-top: 80px;
+}
+
+.contact {
+    font-size: 24px;
+    font-weight: 500;
+    padding: 0 0 10px;
+}
+
+.num {
+    font-size: 20px;
+    font-weight: 500; 
+    padding: 0 0 10px;
+}
+
+.media {
+    display: flex;
+    text-align: center;
+    gap: 20px;
+}
+
+.inst {
+   font-size: 40px;
+}
+
+.adr {
+    display: grid;
+    gap: 10px;
+}
+
+.adres {
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.str {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.map {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+

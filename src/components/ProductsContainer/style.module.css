@@ -1,0 +1,39 @@
+.item {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 30px;
+    width: 1000px;
+    margin: 20px;
+    margin-top: 40px;
+}
+
+.filter {
+    display: flex;
+    gap: 40px;
+    margin-top: 40px;
+}
+
+.sortminmax {
+    display: flex;
+    gap: 10px;
+}
+
+.form {
+    display: flex;
+    gap: 10px;
+}
+
+.btn {
+    border: none;
+    border-radius: 6px;
+    width: 60px;
+}
+
+.width {
+    width: 100px;
+}
+
+.checkbox {
+    display: flex;
+    gap: 10px;
+}

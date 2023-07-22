@@ -1,0 +1,22 @@
+.item{
+    display: grid;
+    grid-template-columns: 50px 200px 80px 40px;
+    gap: 60px;
+    align-items: center;
+    padding: 10px;
+}
+.item img{
+    width: 100%;
+}
+
+.last_price {
+    text-decoration: line-through;
+}
+
+
+
+.discont_price {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}

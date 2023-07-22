@@ -1,0 +1,24 @@
+.container {
+   padding: 30px;
+}
+
+.item {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    padding: 30px;
+ 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,17 @@
+.container {
+   padding: 30px;
+}
+
+.item {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+/* .item {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 30px;
+    width: 1000px;
+    margin: 20px;
+} */
+
