@@ -2,13 +2,16 @@
     padding: 30px;
 }
 .str {
-    margin-left: 50%;
+    margin-left: 42%;
     text-decoration: none;
+    color: black;
 }
 
 .content {
+    width: 100%;
     display: grid;
-    grid-template-columns: 500px 700px;
+    grid-template-columns: 600px 300px;
     gap: 60px;
+    padding: 30px;
 }
 
