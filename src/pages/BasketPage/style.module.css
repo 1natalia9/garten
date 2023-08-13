@@ -2,7 +2,13 @@
     padding: 30px;
 }
 .str {
-    margin-left: 60%;
+    margin-left: 50%;
     text-decoration: none;
+}
+
+.content {
+    display: grid;
+    grid-template-columns: 500px 700px;
+    gap: 60px;
 }
 

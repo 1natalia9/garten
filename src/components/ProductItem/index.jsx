@@ -32,10 +32,12 @@ export default function ProductItem({id, title, image, price, discont_price, }) 
           </div>
         </div>
         <p className={s.title}>{title}</p>
-        <button onClick={() => dispatch(basketAddAction(id))} className={s.btn}>Add product</button>
+       
       </div>
  </Link>
     </div>
+    <button onClick={() => dispatch(basketAddAction(+id))} className={s.btn}>Add product</button>
  </div>
+ 
   )
 }
